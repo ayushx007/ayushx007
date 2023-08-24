@@ -5,6 +5,8 @@
 
 <br />
 
+### Connect with me:
+
 [<img align="left" alt="ayushx007| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ayushx007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ayushx007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -21,15 +23,13 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkG6azmy3OK-hEVJt1_PdLT_SsMmX1QtE9BQFgE0h1qA&s" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" />
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" />
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/767px-Linux_Logo_in_Linux_Libertine_Font.svg.png?20220904132037"/>
 
 <img align="left" alt="MongoDB" width="26px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
 
@@ -38,6 +38,12 @@
 <img align="left" alt="Python" width="26px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg">
 
 <img align="left" alt="Express" width="26px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg">
+
+<img align="left" alt="React.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207">
+
+<img align="left" alt="Next.js" width="26px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
+
+<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201">
 
 <img align="left" alt="MySQL" width="26px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
 
