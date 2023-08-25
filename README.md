@@ -51,9 +51,8 @@
 
 
 <br />
-<br />
 
-### <div align="left">Github Stats </div>
+### Github Stats
 
 <img alt="Ayush Awasthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushx007&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
