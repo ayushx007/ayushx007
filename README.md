@@ -50,7 +50,7 @@
 <img align="left" alt="GCP" width="26px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg">
 
 
-<br />
+<br>
 
 ### Github Stats
 
